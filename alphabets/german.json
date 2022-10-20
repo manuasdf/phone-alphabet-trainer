@@ -1,34 +1,136 @@
-{
-  "A": "Anton",
-  "Ä": "Ärger",
-  "B": "Berta",
-  "C": "Cäsar",
-  "Ch": "Charlotte",
-  "D": "Dora",
-  "E": "Emil",
-  "F": "Friedrich",
-  "G": "Gustav",
-  "H": "Heinrich",
-  "I": "Ida",
-  "J": "Julius",
-  "K": "Kaufmann",
-  "L": "Ludwig",
-  "M": "Martha",
-  "N": "Nordpol",
-  "O": "Otto",
-  "Ö": "Ökonom",
-  "P": "Paula",
-  "Q": "Quelle",
-  "R": "Richard",
-  "S": "Samuel",
-  "Sch": "Schule",
-  "ß": "Eszett",
-  "T": "Theodor",
-  "U": "Ulrich",
-  "Ü": "Übermut",
-  "V": "Viktor",
-  "W": "Wilhelm",
-  "X": "Xanthippe",
-  "Y": "Ypsilon",
-  "Z": "Zacharias"
-}
+[
+  {
+    "character": "A",
+    "word": "Anton"
+  },
+  {
+    "character": "Ä",
+    "word": "Ärger",
+    "umlaut": true
+  },
+  {
+    "character": "B",
+    "word": "Berta"
+  },
+  {
+    "character": "C",
+    "word": "Cäsar"
+  },
+  {
+    "character": "Ch",
+    "word": "Charlotte",
+    "combinedCharacter": true
+  },
+  {
+    "character": "D",
+    "word": "Dora"
+  },
+  {
+    "character": "E",
+    "word": "Emil"
+  },
+  {
+    "character": "F",
+    "word": "Friedrich"
+  },
+  {
+    "character": "G",
+    "word": "Gustav"
+  },
+  {
+    "character": "H",
+    "word": "Heinrich"
+  },
+  {
+    "character": "I",
+    "word": "Ida"
+  },
+  {
+    "character": "J",
+    "word": "Julius"
+  },
+  {
+    "character": "K",
+    "word": "Kaufmann"
+  },
+  {
+    "character": "L",
+    "word": "Ludwig"
+  },
+  {
+    "character": "M",
+    "word": "Martha"
+  },
+  {
+    "character": "N",
+    "word": "Nordpol"
+  },
+  {
+    "character": "O",
+    "word": "Otto"
+  },
+  {
+    "character": "Ö",
+    "word": "Ökonom",
+    "umlaut": true
+  },
+  {
+    "character": "P",
+    "word": "Paula"
+  },
+  {
+    "character": "Q",
+    "word": "Quelle"
+  },
+  {
+    "character": "R",
+    "word": "Richard"
+  },
+  {
+    "character": "S",
+    "word": "Samuel"
+  },
+  {
+    "character": "Sch",
+    "word": "Schule",
+    "combinedCharacter": true
+  },
+  {
+    "character": "ß",
+    "word": "Eszett",
+    "specialCharacter": true
+  },
+  {
+    "character": "T",
+    "word": "Theodor"
+  },
+  {
+    "character": "U",
+    "word": "Ulrich"
+  },
+  {
+    "character": "Ü",
+    "word": "Übermut",
+    "umlaut": true
+  },
+  {
+    "character": "V",
+    "word": "Viktor"
+  },
+  {
+    "character": "W",
+    "word": "Wilhelm"
+  },
+  {
+    "character": "X",
+    "word": "Xanthippe"
+  },
+  {
+    "character": "Y",
+    "word": "Ypsilon"
+  },
+  {
+    "character": "Z",
+    "word": "Zacharias"
+  }
+]

@@ -1,33 +1,134 @@
-{
-  "A": "Alfa",
-  "Ä": "Alfa-Echo",
-  "B": "Bravo",
-  "C": "Charlie",
-  "Ch": "Charlie-Hotel",
-  "D": "Delta",
-  "E": "Echo",
-  "F": "Foxtrot",
-  "G": "Golf",
-  "H": "Hotel",
-  "I": "India",
-  "J": "Juliett",
-  "K": "Kilo",
-  "L": "Lima",
-  "M": "Mike",
-  "N": "November",
-  "O": "Oscar",
-  "Ö": "Oscar-Echo",
-  "P": "Papa",
-  "Q": "Quebec",
-  "R": "Romeo",
-  "S": "Sierra",
-  "ß": "Sierra-Sierra",
-  "T": "Tango",
-  "U": "Uniform",
-  "Ü": "Uniform-Echo",
-  "V": "Victor",
-  "W": "Whiskey",
-  "X": "X-Ray",
-  "Y": "Yankee",
-  "Z": "Zulu"
-}
+[
+  {
+    "character": "A",
+    "word": "Alfa"
+  },
+  {
+    "character": "Ä",
+    "word": "Alfa-Echo",
+    "umlaut": true
+  },
+  {
+    "character": "B",
+    "word": "Bravo"
+  },
+  {
+    "character": "C",
+    "word": "Charlie"
+  },
+  {
+    "character": "Ch",
+    "word": "Charlie-Hotel",
+    "combinedCharacter": true
+  },
+  {
+    "character": "D",
+    "word": "Delta"
+  },
+  {
+    "character": "E",
+    "word": "Echo"
+  },
+  {
+    "character": "F",
+    "word": "Foxtrot"
+  },
+  {
+    "character": "G",
+    "word": "Golf"
+  },
+  {
+    "character": "H",
+    "word": "Hotel"
+  },
+
+  {
+    "character": "I",
+    "word": "India"
+  },
+  {
+    "character": "J",
+    "word": "Juliett"
+  },
+  {
+    "character": "K",
+    "word": "Kilo"
+  },
+  {
+    "character": "L",
+    "word": "Lima"
+  },
+  {
+    "character": "M",
+    "word": "Mike"
+  },
+  {
+    "character": "N",
+    "word": "November"
+  },
+  {
+    "character": "O",
+    "word": "Oscar"
+  },
+  {
+    "character": "Ö",
+    "word": "Oscar-Echo",
+    "umlaut": true
+  },
+  {
+    "character": "P",
+    "word": "Papa"
+  },
+  {
+    "character": "Q",
+    "word": "Quebec"
+  },
+  {
+    "character": "R",
+    "word": "Romeo"
+  },
+  {
+    "character": "S",
+    "word": "Sierra"
+  },
+  {
+    "character": "ß",
+    "word": "Sierra-Sierra",
+    "specialCharacter": true
+  },
+  {
+    "character": "T",
+    "word": "Tango"
+  },
+  {
+    "character": "U",
+    "word": "Uniform"
+  },
+  {
+    "character": "Ü",
+    "word": "Uniform-Echo",
+    "umlaut": true
+  },
+  {
+    "character": "V",
+    "word": "Victor"
+  },
+  {
+    "character": "W",
+    "word": "Whiskey"
+  },
+  {
+    "character": "X",
+    "word": "X-Ray"
+  },
+  {
+    "character": "Y",
+    "word": "Yankee"
+  },
+  {
+    "character": "Z",
+    "word": "Zulu"
+  }
+]
+
+
