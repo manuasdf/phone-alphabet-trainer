@@ -10,13 +10,13 @@ dataSet = json.load(german)
 
 
 def questionnaire():
-    for letter in dataSet
-    while True:
-        guess = input(dataSet['A'] + ": ")
-        if guess == "q":
-            exit()
-        else guess == dataSet['']:
-            return
+    for entry in dataSet:
+        while True:
+            guess = input(entry['character'] + ": ")
+            if guess == "q":
+                exit()
+            if guess == entry['word']:
+                return
 
 if __name__ == "__main__":
     questionnaire()
