@@ -11,13 +11,15 @@ dataSet = json.load(german)
 
 
 def questionnaire(set, randomized = True, exclude = []):
+    if randomized:
+        random.shuffle(set)
     for entry in set:
         while True:
-            if randomized:
-                entry = random.choice(set)
             guess = input(entry['character'] + ": ")
             if guess == "q":
                 exit()
+            if guess == "?":
+                print(entry['word'])
             if guess == entry['word']:
                 break
 
